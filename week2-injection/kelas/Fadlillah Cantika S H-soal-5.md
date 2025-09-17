@@ -1,4 +1,4 @@
-# Christmas Special
+# Juice Shop Christmas Special
 
 1. Buka aplikasi Burp Suite dan atur proxy di browser kamu agar semua lalu lintas request dari browser melewati Burp Suite.
 2. Buka situs OWASP Juice Shop dan navigasikan ke halaman pencarian produk.
